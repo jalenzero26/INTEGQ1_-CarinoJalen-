@@ -1,0 +1,9 @@
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\bin\Debug\netcoreapp3.1\DLayer.deps.json
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\bin\Debug\netcoreapp3.1\DLayer.dll
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\bin\Debug\netcoreapp3.1\DLayer.pdb
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.csprojAssemblyReference.cache
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.AssemblyInfoInputs.cache
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.AssemblyInfo.cs
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.csproj.CoreCompileInputs.cache
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.dll
+C:\Users\Carino\source\repos\INTEGQ1_CariñoJalen\DLayer\obj\Debug\netcoreapp3.1\DLayer.pdb
